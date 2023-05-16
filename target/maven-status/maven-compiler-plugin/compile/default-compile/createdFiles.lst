@@ -1,0 +1,11 @@
+com\portfolioAP\dmnc\controller\PersonaController.class
+com\portfolioAP\dmnc\repository\IEducacionRepository.class
+com\portfolioAP\dmnc\service\EducacionService.class
+com\portfolioAP\dmnc\model\Persona.class
+com\portfolioAP\dmnc\controller\EducacionController.class
+com\portfolioAP\dmnc\service\IEducacionService.class
+com\portfolioAP\dmnc\service\IPersonaService.class
+com\portfolioAP\dmnc\DmncApplication.class
+com\portfolioAP\dmnc\model\Educacion.class
+com\portfolioAP\dmnc\service\PersonaService.class
+com\portfolioAP\dmnc\repository\IPersonaRepository.class
